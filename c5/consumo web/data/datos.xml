@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!--Declarar el contenido de mi archivo XML-->
+ <usuarios>
+ <usuario>
+ <id>1</id>
+ <nombre>Marcelo</nombre>
+ <email>correo@gmail.com</email>
+ </usuario>
+<usuario>
+ <id>2</id>
+ <nombre>Marcela</nombre>
+ <email>correo2@gmail.com</email>
+ </usuario>
+ <usuario>
+ <id>2</id>
+ <nombre>Marcele</nombre>
+ <email>correo3@gmail.com</email>
+ </usuario>
+
+
+  </usuarios>
